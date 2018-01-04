@@ -1,4 +1,4 @@
-# Add My Token
+# How to list my token.
 
 ## Token Registration, Listing, and Mining Support
 
