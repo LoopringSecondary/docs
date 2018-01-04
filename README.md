@@ -14,14 +14,9 @@ Loopring's support to any token includes the following three aspects:
 
 ## Tokens Listed by Loopr Wallet
 
-Loopr, as a wallet, will not list all tokens registered in Loopring Protocol's [TokenRegistry](https://etherscan.io/address/0x974e1e639b5a3c5f44909E1959Ab786AF21B7086#readContract). Currently the following ERC 20 tokens are listed:
+Loopr, as a wallet, will not list all tokens registered in Loopring Protocol's [TokenRegistry](https://etherscan.io/address/0x974e1e639b5a3c5f44909E1959Ab786AF21B7086#readContract). Currently only tokens in [ethereum/ERC20/listing.md](https://github.com/Loopring/token-listing/blob/master/ethereum/ERC20/listing.md) are supported.
 
-
-
-## How to get my token registered and listed?
-
-Please follow instructions on our [token-listing](https://github.com/Loopring/token-listing) github repository.
-
+The official relay's default configuration will also only supprt trading-paires in [ethereum/ERC20/trading_pairs.md](https://github.com/Loopring/token-listing/blob/master/ethereum/ERC20/trading_pairs.md).
 
 
 
@@ -29,46 +24,13 @@ Please follow instructions on our [token-listing](https://github.com/Loopring/to
 
 The Loopring foundation will try its very best to minimize the requirments for  token registration. Currently these requirements include:
 
-- Your token must be ERC20 compatible.
-- Your token's smart contract code must have been verified on https://etherscan.io.
+- Your token must be ERC20 or QRC20 compatible.
+- For ERC20 token, your token's smart contract code must have been verified by https://etherscan.io.
 
 ### Submit Registration/Listing Requests
 
-```
-ERC20 smart contract address: [ETHERSCAN.IO TOKEN URL]
-Website: [URL]
-Email: [EMAIL]
-Trading Pairs: [SYMBOL]/ETH,[SYMBOL]/LRC
-```
+Please submit an issue for this repository, using [this issue](https://github.com/Loopring/token-listing/issues/1) as an template.
 
-We have prepared an example issue for you: [Listing Request - LoopringToken ](https://github.com/Loopring/loopr/issues/83). 
 
-```
-ERC20 smart contract address:https://etherscan.io/token/0xEF68e7C694F40c8202821eDF525dE3782458639f
-Website: https://loopring.org
-Email: foundation@loopring.org
-Trading Pairs: LRC/ETH
-```
-
-Please format your issue's title in format: **Listing Request - [TOKEN NAME]**.
-
-We will review your token smart contract's source code, and use our best judgement to decide whether or not to list your tokens. Once the team reach a decision, we will send you feedback via the email you provided. This process is currently totally centralized, at least for now.
-
-### What does 'listing' mean?
-
-For tokens we decided to support, we will register them on Ethereum blockchain using our TokenRegistry smart contract. The registration enables the Loopring Protocol smart contract to support trading of such tokens. Once your token is registered, it can be traded by Loopring. (This process is centralized, but since the Loopring Foundation still holds the majority of all LRC tokens, even a decentralized govenance solution is literally centralized.)
-
-To enable your token holders to sell and buy with Loopring protocol, you have to make sure some Loopring-enabled wallet supports your token as well. Loopr is a wallet developped by the Loopring team, it will support all tokens registered in 
-TokenRegistry. But for other wallets, you need to reach out to them for support.
-
-### Issue Resolution
-
-Depends on your token smart contract's source code, we may decide to:
-
-1. reject your request.
-2. register your token into TokenRegistry smart contract but not to list it on Loopr.io
-3. register your token into TokenRegistry smart contract and list it on Loopr.io with seleted trading pairs.
-
-### Trading Pairs
-By default, we will add a traiding pair for your token with ETH. But for some tokens, we will also add a traiding pair with LRC. If you would like to add additional traiding pair, please let us know in the issue.
+**Please do not submit issues regarding token registration/listing to other project repositories.**
 
