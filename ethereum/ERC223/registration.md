@@ -1,8 +1,9 @@
 # ERC20 Token Registration
 
-The following ERC20 tokens have been registered in Loopring Protocol on Ethereum.
+The following ERC20 tokens have been registered in Loopring Protocol (v1.0.0) on Ethereum:
 
-| ERC20 Token Contract | Digits | Symbol | Name | 
+
+| Token Contract | Digits | Symbol | Name | 
 |----|----|----|----|
 0x2956356cD2a2bf3202F771F50D3D14A367b48070 | 18 | WETH | Ether Token
 0xEF68e7C694F40c8202821eDF525dE3782458639f | 18 | LRC | Loopring
