@@ -29,8 +29,5 @@ The Loopring foundation will try its very best to minimize the requirments for  
 
 ### Submit Registration/Listing Requests
 
-Please submit an issue for this repository, using [this issue](https://github.com/Loopring/token-listing/issues/1) as an template.
-
-
-**Please do not submit issues regarding token registration/listing to other project repositories.**
+Please submit an issue for this repository, using [this issue](https://github.com/Loopring/token-listing/issues/1) as an template. Please do NOT submit issues regarding token registration/listing to other project repositories.
 
