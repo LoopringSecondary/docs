@@ -1,4 +1,4 @@
-# README
+# Add My Token
 
 ## Token Registration, Listing, and Mining Support
 
