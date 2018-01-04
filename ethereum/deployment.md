@@ -1,6 +1,12 @@
-# Protocol Deployment on Ethereum
+# Deployment on Ethereum
 
-## v1.0.0
+
+## Protocol Token - LRC
+
+- https://etherscan.io/address/lrctoken.eth (0xEF68e7C694F40c8202821eDF525dE3782458639f)
+
+## Protocol
+### v1.0.0
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.0.0-release
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
@@ -11,7 +17,7 @@
 - TransferableMultsig:  [0x7421ad9C880eDF007a122f119AD12dEd5f7C123B](https://etherscan.io/address/0x7421ad9C880eDF007a122f119AD12dEd5f7C123B)    
 
 
-## v1.0-beta.3
+### v1.0-beta.3
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.0-beta.3
 - TokenRegistry：[0x2EfEc84e4C52D1392cA0210b571234AD375C2250](https://etherscan.io/address/0x2EfEc84e4C52D1392cA0210b571234AD375C2250)
 - TokenTransferDelegate: [0xaf7ef25C997A5121459122308a84A032D4A16868](https://etherscan.io/address/0xaf7ef25C997A5121459122308a84A032D4A16868)
@@ -19,7 +25,7 @@
 - LoopringProtocolImpl: [0xaD111a1D34045dF921259FF91F8096EeC1afD7A9](https://etherscan.io/address/0xaD111a1D34045dF921259FF91F8096EeC1afD7A9)
 
 
-## v1.0-beta.2
+### v1.0-beta.2
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.0-beta.2
 - TokenRegistry：[0xB3f998F70F0A99Fd11902Dd238B3b92156040ca0](https://etherscan.io/address/0xB3f998F70F0A99Fd11902Dd238B3b92156040ca0)
@@ -28,7 +34,7 @@
 - LoopringProtocolImpl: [0x7De39e18D6878F17c94B9c7F8C9EC451438ab710](https://etherscan.io/address/0x7De39e18D6878F17c94B9c7F8C9EC451438ab710)
 
 
-## v1.0-beta.1
+### v1.0-beta.1
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.0-beta.1
 - TokenRegistry: [0x2d39D06237fC4A399Aef944f8E012694Cb731afC](https://etherscan.io/address/0x2d39D06237fC4A399Aef944f8E012694Cb731afC)

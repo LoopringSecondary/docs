@@ -1,7 +1,17 @@
-# Protocol Deployment on Qtum
+# Deployment on Qtum
 
 
-## v1.0.0
+## Protocol Token - LRQ
+
+```
+    Qtum address: QQruCwurjS9Nqy5PGmdSNrALhRsbZCeWvK
+    HEX address: 2eb2a66afd4e465fb06d8b71f30fb1b93e18788d
+    link: https://explorer.Qtum.org/address/QQruCwurjS9Nqy5PGmdSNrALhRsbZCeWvK
+```
+
+## Protocol
+
+### v1.0.0
 - Source code: https://github.com/Loopring/qtum-protocol/releases/tag/1.0
 - TokenTransferDelegate:
     - Qtum address: QV2aQmR4FppywaQAn6ArMBEa5UgQhCJqbk

@@ -1,4 +1,4 @@
-# Tokens Listed on Loopr
+# QRC20 Tokens Listed on Loopr
 
 The following QRC20 tokens have been listed in Loopr (https://loopring.io):
 

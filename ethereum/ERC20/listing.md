@@ -1,4 +1,4 @@
-# Tokens Listed on Loopr
+# ERC20 Tokens Listed on Loopr
 
 The following ERC20 tokens have been listed in Loopr (https://loopring.io):
 
