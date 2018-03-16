@@ -13,7 +13,7 @@
 - TokenRegistry: [0xa21c1f2AE7f721aE77b1204A4f0811c642638da9](https://etherscan.io/address/0xa21c1f2AE7f721aE77b1204A4f0811c642638da9)    
 - TokenTransferDelegate: [0xc787aE8D6560FB77B82F42CED8eD39f94961e304](https://etherscan.io/address/0xc787aE8D6560FB77B82F42CED8eD39f94961e304)    
 - NameRegistry: [0x0f3Dce8560a6010DE119396af005552B7983b7e7](https://etherscan.io/address/0x0f3Dce8560a6010DE119396af005552B7983b7e7)    
-- LoopringProtocolImpl:  [0x2ea2e05F72D497E6E15C320530DC14abAe70EB37](https://etherscan.io/address/0x2ea2e05F72D497E6E15C320530DC14abAe70EB37)    
+- LoopringProtocolImpl:  [0xc80BbAb86cED62CF795619A357581FaF0cB46511](https://etherscan.io/address/0xc80BbAb86cED62CF795619A357581FaF0cB46511)    
 - TransferableMultsig:  [0x7421ad9C880eDF007a122f119AD12dEd5f7C123B](https://etherscan.io/address/0x7421ad9C880eDF007a122f119AD12dEd5f7C123B)    
 
 ### v1.0.0
