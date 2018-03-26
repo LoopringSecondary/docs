@@ -8,7 +8,7 @@
 ## Protocol
 ### v1.3-beta.1
 
-- Source code: https://github.com/Loopring/protocol/releases/tag/v1.2-beta.1
+- Source code: https://github.com/Loopring/protocol/releases/tag/v1.3-beta.1
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
 - TokenRegistry: [0xa21c1f2AE7f721aE77b1204A4f0811c642638da9](https://etherscan.io/address/0xa21c1f2AE7f721aE77b1204A4f0811c642638da9)    
 - TokenTransferDelegate: [0x7b126ab811f278f288bf1d62d47334351dA20d1d](https://etherscan.io/address/0x7b126ab811f278f288bf1d62d47334351dA20d1d)    
@@ -18,7 +18,7 @@
 
 ### v1.2-beta.2
 
-- Source code: https://github.com/Loopring/protocol/releases/tag/v1.2-beta.1
+- Source code: https://github.com/Loopring/protocol/releases/tag/v1.2-beta.2
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
 - TokenRegistry: [0xa21c1f2AE7f721aE77b1204A4f0811c642638da9](https://etherscan.io/address/0xa21c1f2AE7f721aE77b1204A4f0811c642638da9)    
 - TokenTransferDelegate: [0xc787aE8D6560FB77B82F42CED8eD39f94961e304](https://etherscan.io/address/0xc787aE8D6560FB77B82F42CED8eD39f94961e304)    
