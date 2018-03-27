@@ -11,6 +11,19 @@
 
 ## Protocol
 
+### v1.3
+- Source code: https://github.com/Loopring/qtum-protocol/releases/tag/v1.3
+- Creator: QeBcZpRdTCqaYnPNAjChYdt5LyKyrmW2sE
+- LRQ: 2eb2a66afd4e465fb06d8b71f30fb1b93e18788d
+- TokenTransferDelegate:
+    - HEX address: 60b3fa7f461664e4dafb621a36ac2722cc680f10
+- TokenRegistry:
+    - HEX address: c89ea34360258917daf3655f8bec5550923509b3
+- NameRegistry:
+    - HEX address: e26a27d92181069b25bc7283e03722f6ce7678bb
+- LoopringProtocolImpl:
+    - HEX address: 5180bb56b696d16635abd8dc235e0ee432abf25d
+
 ### v1.0.0
 - Source code: https://github.com/Loopring/qtum-protocol/releases/tag/1.0
 - TokenTransferDelegate:
