@@ -12,8 +12,8 @@
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
 - TokenRegistry: [0xa21c1f2AE7f721aE77b1204A4f0811c642638da9](https://etherscan.io/address/0xa21c1f2AE7f721aE77b1204A4f0811c642638da9)    
 - TokenTransferDelegate: [0x7b126ab811f278f288bf1d62d47334351dA20d1d](https://etherscan.io/address/0x7b126ab811f278f288bf1d62d47334351dA20d1d)    
-- NameRegistry: [0xd181c1808e3f010F0F0aABc6Fe1bcE2025DB7Bb7](https://etherscan.io/address/0xd181c1808e3f010F0F0aABc6Fe1bcE2025DB7Bb7)    
-- LoopringProtocolImpl:  [0x0B48b747436f10c846696e889e66425e05CD740f](https://etherscan.io/address/0x0B48b747436f10c846696e889e66425e05CD740f)    
+- NameRegistry: [0xf16af7F69697465f92fF469a837A2B4a82C77423](https://etherscan.io/address/0xf16af7F69697465f92fF469a837A2B4a82C77423)    
+- LoopringProtocolImpl:  [0xbDdeCFaA1F67d414039523498a6d73369d239a86](https://etherscan.io/address/0xbDdeCFaA1F67d414039523498a6d73369d239a86)    
 - TransferableMultsig:  [0x7421ad9C880eDF007a122f119AD12dEd5f7C123B](https://etherscan.io/address/0x7421ad9C880eDF007a122f119AD12dEd5f7C123B)    
 
 ### v1.2-beta.2
