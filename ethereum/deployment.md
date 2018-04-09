@@ -6,6 +6,18 @@
 - https://etherscan.io/address/lrctoken.eth (0xEF68e7C694F40c8202821eDF525dE3782458639f)
 
 ## Protocol
+### v1.4-beta.1
+
+- Source code: https://github.com/Loopring/protocol/releases/tag/v1.4-beta.1
+- creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
+- TokenRegistry: [0xaD3407deDc56A1F69389Edc191b770F0c935Ea37](https://etherscan.io/address/0xaD3407deDc56A1F69389Edc191b770F0c935Ea37)    
+- TokenCreator: [0xbF209Cd9F641363931F65C0E8EF44c79cA379301](https://etherscan.io/address/0xbF209Cd9F641363931F65C0E8EF44c79cA379301)    
+- TokenTransferDelegate: [0x7b126ab811f278f288bf1d62d47334351dA20d1d](https://etherscan.io/address/0x7b126ab811f278f288bf1d62d47334351dA20d1d)    
+- NameRegistry: [0xC897816C1A6DB4A2923b7D75d9B812e2f62cF504](https://etherscan.io/address/0xC897816C1A6DB4A2923b7D75d9B812e2f62cF504)    
+- LoopringProtocolImpl:  [0x4019440BBe5882915db9F2cAe972a518DB346C62](https://etherscan.io/address/0x4019440BBe5882915db9F2cAe972a518DB346C62)    
+- TransferableMultsig:  [0x7421ad9C880eDF007a122f119AD12dEd5f7C123B](https://etherscan.io/address/0x7421ad9C880eDF007a122f119AD12dEd5f7C123B)    
+
+
 ### v1.3-beta.1
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.3-beta.1
