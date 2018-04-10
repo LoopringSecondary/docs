@@ -2,7 +2,7 @@
 
 The following ERC20 tokens have been registered in Loopring Protocol on Ethereum.
 
-## 1st batch  
+### 1st batch  
 | Token Contract | Digits | Symbol | Name | 
 |----|----|----|----|
 0x2956356cD2a2bf3202F771F50D3D14A367b48070 | 18 | WETH | Ether Token
@@ -71,7 +71,8 @@ The following ERC20 tokens have been registered in Loopring Protocol on Ethereum
 0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009 | 0 | SNGLS | SingularDTV
 0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c | 0 | EDG | Edgeless
 
-## 2nd batch (2018-04)  
+### 2nd batch (2018-04)  
+| Token Contract | Digits | Symbol | Name | 
 |----|----|----|----|
 0x763186eB8d4856D536eD4478302971214FEbc6A9 | 18 | BETR  |  Better Betting
 0x35a69642857083BA2F30bfaB735dacC7F0bac969 | 18 | BBN   |  BBNToken
