@@ -86,3 +86,5 @@ The following ERC20 tokens have been registered in Loopring Protocol on Ethereum
 0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a | 18 | ODEM  |  ODEM Token
 0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359 | 18 | DAI   |  Dai Stablecoin v1.0
 0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d | 18 | QSP   |  Quantstamp Token
+0xC5bBaE50781Be1669306b9e001EFF57a2957b09d | 18 | GTO   |  Gifto
+0xD850942eF8811f2A866692A623011bDE52a462C1 | 18 | VEN   |  VeChain Token
