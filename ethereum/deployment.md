@@ -29,7 +29,7 @@
 - TransferableMultsig:  [0x7421ad9C880eDF007a122f119AD12dEd5f7C123B](https://etherscan.io/address/0x7421ad9C880eDF007a122f119AD12dEd5f7C123B)    
 
 
-### v1.3-beta.1
+### v1.3-beta.1 [obsolete]
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.3-beta.1
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
