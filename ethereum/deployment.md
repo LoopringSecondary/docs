@@ -17,7 +17,7 @@
 - TransferableMultsigImpl:  [0x38c1908487de0B82e9eD6d416Bc50D5ab08EaC75](https://etherscan.io/address/0x38c1908487de0B82e9eD6d416Bc50D5ab08EaC75)    
 
 
-### v1.4-beta.1
+### v1.4-beta.1 [obsolete]
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.4-beta.1
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
