@@ -6,7 +6,7 @@
 - https://etherscan.io/address/lrctoken.eth (0xEF68e7C694F40c8202821eDF525dE3782458639f)
 
 ## Protocol
-### v1.5
+### v1.5 [obsoleted]
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.5
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
