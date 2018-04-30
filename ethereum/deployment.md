@@ -70,7 +70,7 @@
 - TransferableMultsig:  [0x7421ad9C880eDF007a122f119AD12dEd5f7C123B](https://etherscan.io/address/0x7421ad9C880eDF007a122f119AD12dEd5f7C123B)    
 
 
-### v1.0-beta.3
+### v1.0-beta.3 [obsolete]
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.0-beta.3
 - TokenRegistry：[0x2EfEc84e4C52D1392cA0210b571234AD375C2250](https://etherscan.io/address/0x2EfEc84e4C52D1392cA0210b571234AD375C2250)
 - TokenTransferDelegate: [0xaf7ef25C997A5121459122308a84A032D4A16868](https://etherscan.io/address/0xaf7ef25C997A5121459122308a84A032D4A16868)
