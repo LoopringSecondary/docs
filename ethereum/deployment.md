@@ -78,7 +78,7 @@
 - LoopringProtocolImpl: [0xaD111a1D34045dF921259FF91F8096EeC1afD7A9](https://etherscan.io/address/0xaD111a1D34045dF921259FF91F8096EeC1afD7A9)
 
 
-### v1.0-beta.2
+### v1.0-beta.2 [obsolete]
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.0-beta.2
 - TokenRegistry：[0xB3f998F70F0A99Fd11902Dd238B3b92156040ca0](https://etherscan.io/address/0xB3f998F70F0A99Fd11902Dd238B3b92156040ca0)
