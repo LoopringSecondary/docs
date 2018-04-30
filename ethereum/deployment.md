@@ -59,7 +59,7 @@
 - LoopringProtocolImpl:  [0xc80BbAb86cED62CF795619A357581FaF0cB46511](https://etherscan.io/address/0xc80BbAb86cED62CF795619A357581FaF0cB46511)    
 - TransferableMultsig:  [0x7421ad9C880eDF007a122f119AD12dEd5f7C123B](https://etherscan.io/address/0x7421ad9C880eDF007a122f119AD12dEd5f7C123B)    
 
-### v1.0.0
+### v1.0.0 [obsolete]
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.0.0-release
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
