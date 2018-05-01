@@ -11,10 +11,10 @@
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.5.1
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
-- TokenRegistryImpl: [0x004DeF62C71992615CF22786d0b7Efb22850Df4a](https://etherscan.io/address/0x004DeF62C71992615CF22786d0b7Efb22850Df4a)    
-- TokenTransferDelegateImpl: [0xD22f97BCEc8E029e109412763b889fC16C4bca8B](https://etherscan.io/address/0xD22f97BCEc8E029e109412763b889fC16C4bca8B)    
-- LoopringProtocolImpl:  [0xd29becA9c9749Ab6B37082bCbD16D041a9285c8B](https://etherscan.io/address/0xd29becA9c9749Ab6B37082bCbD16D041a9285c8B)    
-- TokenFactoryImpl: [0x622B809452D04f70a62eC428920A51733B634215](https://etherscan.io/address/0x622B809452D04f70a62eC428920A51733B634215)    
+- TokenRegistryImpl: [0xAbe12e3548fDb334D11fcc962c413d91Ef12233F](https://etherscan.io/address/0xAbe12e3548fDb334D11fcc962c413d91Ef12233F)    
+- TokenTransferDelegateImpl: [0x17233e07c67d086464fD408148c3ABB56245FA64](https://etherscan.io/address/0x17233e07c67d086464fD408148c3ABB56245FA64)    
+- LoopringProtocolImpl:  [0x8d8812b72d1e4ffCeC158D25f56748b7d67c1e78](https://etherscan.io/address/0x8d8812b72d1e4ffCeC158D25f56748b7d67c1e78)    
+- TokenFactoryImpl: [0xE96D0e0C48aE747570C2C1586Bbcd454239Cb060](https://etherscan.io/address/0xE96D0e0C48aE747570C2C1586Bbcd454239Cb060)    
 - TransferableMultsigImpl:  [0x38c1908487de0B82e9eD6d416Bc50D5ab08EaC75](https://etherscan.io/address/0x38c1908487de0B82e9eD6d416Bc50D5ab08EaC75)    
 
 

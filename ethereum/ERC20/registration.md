@@ -88,3 +88,5 @@ The following ERC20 tokens have been registered in Loopring Protocol on Ethereum
 0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d | 18 | QSP   |  Quantstamp Token
 0xC5bBaE50781Be1669306b9e001EFF57a2957b09d | 18 | GTO   |  Gifto
 0xD850942eF8811f2A866692A623011bDE52a462C1 | 18 | VEN   |  VeChain Token
+0x1b793e49237758dbd8b752afc9eb4b329d5da016 | 18 | VITE  |  ViteToken
+0xbeb6fdf4ef6ceb975157be43cbe0047b248a8922 | 18 | ARP   |  ARP
