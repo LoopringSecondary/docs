@@ -5,7 +5,7 @@ The following ERC20 tokens have been registered in Loopring Protocol on Ethereum
 ### 1st batch  
 | Token Contract | Digits | Symbol | Name | 
 |----|----|----|----|
-0x2956356cD2a2bf3202F771F50D3D14A367b48070 | 18 | WETH | Ether Token
+0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 | 18 | WETH | Wrapped Ether
 0xEF68e7C694F40c8202821eDF525dE3782458639f | 18 | LRC | Loopring
 0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0 | 18 | EOS | EOS
 0xd26114cd6EE289AccF82350c8d8487fedB8A0C07 | 18 | OMG | OmiseGO
