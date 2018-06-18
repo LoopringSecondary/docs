@@ -7,7 +7,7 @@
 
 ## Protocol
 
-### v1.5.1
+### v1.5.1 on main-net
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.5.1
 - creater: [0x6d4ee35D70AD6331000E370F079aD7df52E75005](https://etherscan.io/address/0x6d4ee35D70AD6331000E370F079aD7df52E75005)  
@@ -17,6 +17,13 @@
 - TokenFactoryImpl: [0xE96D0e0C48aE747570C2C1586Bbcd454239Cb060](https://etherscan.io/address/0xE96D0e0C48aE747570C2C1586Bbcd454239Cb060)    
 - TransferableMultsigImpl:  [0x38c1908487de0B82e9eD6d416Bc50D5ab08EaC75](https://etherscan.io/address/0x38c1908487de0B82e9eD6d416Bc50D5ab08EaC75)    
 
+### v1.5.1 on ropsten:
+
+- Source code: https://github.com/Loopring/protocol/releases/tag/v1.5.1
+- creater: [0x4374d3d032b3c96785094ec9f384f07077792768](https://ropsten.etherscan.io/address/0x4374d3d032b3c96785094ec9f384f07077792768)  
+- TokenRegistryImpl: [0x883f31cc3b4e1754fd68a6f30b3a8804599fc7ac](https://ropsten.etherscan.io/address/0x883f31cc3b4e1754fd68a6f30b3a8804599fc7ac)    
+- TokenTransferDelegateImpl: [0x921c0ed3eda52d45e8572b45cc8438b2efc44f91](https://ropsten.etherscan.io/address/0x921c0ed3eda52d45e8572b45cc8438b2efc44f91)    
+- LoopringProtocolImpl:  [0x40598b41cc17a7e56dd72f415e8223aacca94cf7](https://ropsten.etherscan.io/address/0x40598b41cc17a7e56dd72f415e8223aacca94cf7)    
 
 ### v1.5 [obsolete]
 
