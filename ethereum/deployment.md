@@ -25,6 +25,14 @@
 - TokenTransferDelegateImpl: [0x921c0ed3eda52d45e8572b45cc8438b2efc44f91](https://ropsten.etherscan.io/address/0x921c0ed3eda52d45e8572b45cc8438b2efc44f91)    
 - LoopringProtocolImpl:  [0x40598b41cc17a7e56dd72f415e8223aacca94cf7](https://ropsten.etherscan.io/address/0x40598b41cc17a7e56dd72f415e8223aacca94cf7)    
 
+### v1.5.1 on rinkeby:
+
+- Source code: https://github.com/Loopring/protocol/releases/tag/v1.5.1
+- creater: [0x4374d3d032b3c96785094ec9f384f07077792768](https://rinkeby.etherscan.io/address/0x4374d3d032b3c96785094ec9f384f07077792768)  
+- TokenRegistryImpl: [0x95bd4d0fb3ca93d624e890f1b2b0ae9b22f396e3](https://rinkeby.etherscan.io/address/0x95bd4d0fb3ca93d624e890f1b2b0ae9b22f396e3)    
+- TokenTransferDelegateImpl: [0x0d9b7f5bf6b81f0418233a1c2bffe6b4fd87786b](https://rinkeby.etherscan.io/address/0x0d9b7f5bf6b81f0418233a1c2bffe6b4fd87786b)    
+- LoopringProtocolImpl:  [0x68499bad935a9f35747ea89311216092983737a4](https://rinkeby.etherscan.io/address/0x68499bad935a9f35747ea89311216092983737a4)    
+
 ### v1.5 [obsolete]
 
 - Source code: https://github.com/Loopring/protocol/releases/tag/v1.5
