@@ -4,7 +4,7 @@ The following ERC20 tokens have been registered with Loopring Protocol on Ethere
 
 To register your ERC20 tokens, visit [loopring.org/tokens.html](http://loopring.org/tokens.html).
 
-Note that Loopring's official relay cluster only supports trading pairs consisting of a subset of these tokens. For a complete list of trading pairs supported by the official relay cluster, checkout out [this](ethereum/ERC20/tradingpairs-supported-by-bootstrap) page.
+Note that Loopring's official relay cluster, _Bootstrap_, only supports trading pairs consisting of a subset of these tokens. For a complete list of trading pairs supported by the official relay cluster, checkout out [this](ethereum/ERC20/tradingpairs-supported-by-bootstrap) page.
 
 Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset](ethereum/ERC20/tradingpairs-supported-by-loopr) of the trading pairs that the Loopring official relay cluster supports.
 
