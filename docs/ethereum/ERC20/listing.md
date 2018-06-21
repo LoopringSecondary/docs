@@ -4,7 +4,7 @@ The following ERC20 tokens have been listed in Loopr (https://loopring.io):
 
 
 | Token Contract | Digits | Symbol | Name | 
-|----|----|----|----|
+| ---- | ---- | ---- | ---- |
 0x2956356cD2a2bf3202F771F50D3D14A367b48070 | 18 | WETH | Ether Token
 0xEF68e7C694F40c8202821eDF525dE3782458639f | 18 | LRC | Loopring
 0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0 | 18 | EOS | EOS
