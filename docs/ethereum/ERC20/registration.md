@@ -73,6 +73,7 @@ The following ERC20 tokens have been registered in Loopring Protocol on Ethereum
 0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c | 0 | EDG | Edgeless
 
 ## Batch #2 (2018-04)  
+
 | Token Contract | Digits | Symbol | Name | 
 | ---- | ---- | ---- | ---- |
 0x763186eB8d4856D536eD4478302971214FEbc6A9 | 18 | BETR  |  Better Betting
@@ -93,6 +94,7 @@ The following ERC20 tokens have been registered in Loopring Protocol on Ethereum
 0xbeb6fdf4ef6ceb975157be43cbe0047b248a8922 | 18 | ARP   |  ARP
 
 ## Batch #3 (2018-05)  
+
 | Token Contract | Digits | Symbol | Name | 
 | ---- | ---- | ---- | ---- |
 0x103c3A209da59d3E7C4A89307e66521e081CFDF0 | 18 | GVT  | Genesis Vision Token
