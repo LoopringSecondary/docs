@@ -2,7 +2,7 @@
 
 The following ERC20 tokens have been registered in Loopring Protocol on Ethereum.
 
-### 1st batch 
+## Batch #1
 
 | Token Contract | Digits | Symbol | Name | 
 | ---- | ---- | ---- | ---- |
@@ -72,9 +72,9 @@ The following ERC20 tokens have been registered in Loopring Protocol on Ethereum
 0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009 | 0 | SNGLS | SingularDTV
 0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c | 0 | EDG | Edgeless
 
-### 2nd batch (2018-04)  
+## Batch #2 (2018-04)  
 | Token Contract | Digits | Symbol | Name | 
-|----|----|----|----|
+| ---- | ---- | ---- | ---- |
 0x763186eB8d4856D536eD4478302971214FEbc6A9 | 18 | BETR  |  Better Betting
 0x35a69642857083BA2F30bfaB735dacC7F0bac969 | 18 | BBN   |  BBNToken
 0x45245bc59219eeaAF6cD3f382e078A461FF9De7B | 18 | BKX   |  BANKEX
@@ -92,9 +92,9 @@ The following ERC20 tokens have been registered in Loopring Protocol on Ethereum
 0x1b793e49237758dbd8b752afc9eb4b329d5da016 | 18 | VITE  |  ViteToken
 0xbeb6fdf4ef6ceb975157be43cbe0047b248a8922 | 18 | ARP   |  ARP
 
-### 3nd batch (2018-05)  
+## Batch #3 (2018-05)  
 | Token Contract | Digits | Symbol | Name | 
-|----|----|----|----|
+| ---- | ---- | ---- | ---- |
 0x103c3A209da59d3E7C4A89307e66521e081CFDF0 | 18 | GVT  | Genesis Vision Token
 0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB | 18 | APPC | AppCoins
 0xCeD4E93198734dDaFf8492d525Bd258D49eb388E | 18 | EDO  | Eidoo Token
