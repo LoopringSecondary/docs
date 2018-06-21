@@ -10,7 +10,7 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 
 ## Batch #1
 
-| Token Contract | Digits | Symbol | Name | 
+| Token Contract | Digits | Symbol | Name |
 | ---- | ---- | ---- | ---- |
 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 | 18 | WETH | Wrapped Ether
 0xEF68e7C694F40c8202821eDF525dE3782458639f | 18 | LRC | Loopring
@@ -24,7 +24,7 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0x744d70fdbe2ba4cf95131626614a1763df805b9e | 18 | SNT | Status
 0x888666CA69E0f178DED6D75b5726Cee99A87D698 | 18 | ICN | Iconomi
 0xe41d2489571d322189246dafa5ebde1f4699f498 | 18 | ZRX | 0x
-0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c | 18 | BNT | Bancor | 
+0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c | 18 | BNT | Bancor
 0x6810e776880C02933D47DB1b9fc05908e5386b96 | 18 | GNO | Gnosis
 0x960b236A07cf122663c4303350609A66A7B288C0 | 18 | ANT | Aragon
 0x667088b212ce3d06a1b553a7221E1fD19000d9aF | 18 | WINGS | WINGS
@@ -35,7 +35,7 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e | 18 | CFI | Cofoundit
 0x0abdace70d3790235af448c88547603b945604ea | 18 | DNT | district0x
 0x1776e1f26f98b1a5df9cd347953a26dd3cb46671 | 18 | NMR | Numeraire
-0xb9e7f8568e08d5659f5d29c4997173d84cdf2607 | 18 | SWT | Swarm | City
+0xb9e7f8568e08d5659f5d29c4997173d84cdf2607 | 18 | SWT | Swarm City
 0xcfb98637bcae43C13323EAa1731cED2B716962fD | 18 | NET | Nimiq
 0xfa05A73FfE78ef8f1a739473e462c54bae6567D9 | 18 | LUN | Lunyr
 0xD8912C10681D8B21Fd3742244f44658dB1A2264E | 18 | PLU | Pluton
@@ -78,9 +78,9 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009 | 0 | SNGLS | SingularDTV
 0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c | 0 | EDG | Edgeless
 
-## Batch #2 (2018-04)  
+## Batch #2 (2018-04)
 
-| Token Contract | Digits | Symbol | Name | 
+| Token Contract | Digits | Symbol | Name |
 | ---- | ---- | ---- | ---- |
 0x763186eB8d4856D536eD4478302971214FEbc6A9 | 18 | BETR  |  Better Betting
 0x35a69642857083BA2F30bfaB735dacC7F0bac969 | 18 | BBN   |  BBNToken
@@ -99,9 +99,9 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0x1b793e49237758dbd8b752afc9eb4b329d5da016 | 18 | VITE  |  ViteToken
 0xbeb6fdf4ef6ceb975157be43cbe0047b248a8922 | 18 | ARP   |  ARP
 
-## Batch #3 (2018-05)  
+## Batch #3 (2018-05)
 
-| Token Contract | Digits | Symbol | Name | 
+| Token Contract | Digits | Symbol | Name |
 | ---- | ---- | ---- | ---- |
 0x103c3A209da59d3E7C4A89307e66521e081CFDF0 | 18 | GVT  | Genesis Vision Token
 0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB | 18 | APPC | AppCoins
