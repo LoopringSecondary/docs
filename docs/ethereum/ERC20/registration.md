@@ -1,7 +1,9 @@
 # ERC20 Token Registration
 
-The following ERC20 tokens have been registered in Loopring Protocol on Ethereum.
+The following ERC20 tokens have been registered with Loopring Protocol on Ethereum mainnet therefore they can be traded using the Loopring Protocol.
 
+To register your ERC20 tokens, check out [loopring.org/tokens.html]
+(http://loopring.org/tokens.html).
 ## Batch #1
 
 | Token Contract | Digits | Symbol | Name | 
