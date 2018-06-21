@@ -1,5 +1,5 @@
 remote_theme: dong77/minimal
-title: Loopring Protocol Deployments
+title: Deployments
 logo: http://loopring.org/images/logo.svg
 show_downloads: false
 description: This repository records all Loopring Protocol deployments on various blockchains as well as the list of tokens registered.
