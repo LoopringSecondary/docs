@@ -1,6 +1,4 @@
-# Protocol Deployments and Supported Tokens
-
-## On Ethereum
+## Ethereum
 
 - Protocol Token: [LRC](https://etherscan.io/address/lrctoken.eth)（ 0xEF68e7C694F40c8202821eDF525dE3782458639f）.
 - [Protocol Deployments](ethereum/protocol-deployment)
@@ -10,6 +8,6 @@
 
 To enable your ERC20 tokens to be tradable with Loopring, visit the [Token Application](ethereum/token-application) page.
 
-## On NEO
+## NEO
 
 Loopring on NEO is coming soon, stay tuned.
