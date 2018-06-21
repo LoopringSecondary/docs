@@ -1,4 +1,4 @@
 ## Ethereum
 
-- [Deployment](ethereum/deployment)
-- [Supported ERC20 Tokens](ethereum/ERC20/registration)
+- [Deployment](ethereum/protocol-deployment)
+- [ERC20 Tokens Supported by Loopring Protocol](ethereum/registered-tokens)
