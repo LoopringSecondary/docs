@@ -47,3 +47,9 @@ The following trading pairs have been enabled by the Loopring's official relay c
 - KNC-LRC
 - KNC-WETH
 - KNC-BAR
+
+You can query the most up-to-date list of trading pairs by using:
+
+```
+curl -X POST -H "Content-Type: application/json" -d '{"method":"loopring_getSupportedMarket", "params" : [{}], "id" : 0}' https://bootstrap.loopring.io/rpc/v2
+```
