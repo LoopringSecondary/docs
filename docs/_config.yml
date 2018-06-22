@@ -1,5 +1,2 @@
 remote_theme: dong77/minimal
-title: Deployments
-logo: https://github.com/dong77/minimal/raw/master/assets/img/LOOPRING.jpg
-show_downloads: false
 description: This repository records all Loopring Protocol deployments on Ethereum and other blockchains as well as the list of tokens registered.
