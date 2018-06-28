@@ -145,8 +145,9 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c | 18 | ENJ  | Enjin Coin
 0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8 | 8  | TNT  | Tierion Network Token
 
-### Batch #4 (2018-06)  
-| Token Contract | Digits | Symbol | Name | 
-|----|----|----|----|
+## Batch #4 (2018-06)  
+
+| Token Contract | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- |
 0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33 | 18 | FKX | Knoxstertoken
 0xF72DA6E99b864e26e3a386F2Cc6022882eCB1125 | 18 | DET | Decentralized Ecosystem Token
