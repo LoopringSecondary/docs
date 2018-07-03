@@ -14,7 +14,7 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 | ---- | ---- | ---- | ---- |
 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 | 18 | WETH | Wrapped Ether
 0xEF68e7C694F40c8202821eDF525dE3782458639f | 18 | LRC | Loopring
-0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0 | 18 | EOS | EOS
+~~0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0 | 18 | EOS | EOS~~
 0xd26114cd6EE289AccF82350c8d8487fedB8A0C07 | 18 | OMG | OmiseGO
 0xe94327d07fc17907b4db788e5adf2ed424addff6 | 18 | REP | Augur
 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280 | 18 | PAY | TenX
@@ -151,3 +151,10 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 | ---- | ---- | ---- | ---- |
 0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33 | 18 | FKX | Knoxstertoken
 0xF72DA6E99b864e26e3a386F2Cc6022882eCB1125 | 18 | DET | Decentralized Ecosystem Token
+0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664 | 18 | QKC | QuarkChain Token
+0xd8A63a824e21dD8493C8a8F62b0f00d877b982f6 | 18 | LT  | LooisToken
+0xfF5c25D2F40B47C4a37f989DE933E26562Ef0Ac0 | 16 | KNT | Kora Network Token
+0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F | 18 | HSC | HashCoin
+0xfe5F141Bf94fE84bC28deD0AB966c16B17490657 | 18 | LBA | LibraToken
+0xE8663A64A96169ff4d95b4299E7ae9a76b905B31 | 8  | Rating | Rating
+
