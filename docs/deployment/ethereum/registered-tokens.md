@@ -14,7 +14,7 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 | ---- | ---- | ---- | ---- |
 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 | 18 | WETH | Wrapped Ether
 0xEF68e7C694F40c8202821eDF525dE3782458639f | 18 | LRC | Loopring
-~~0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0 | 18 | EOS | EOS~~
+~~0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0~~ | ~~18~~ | ~~EOS~~ | ~~EOS~~
 0xd26114cd6EE289AccF82350c8d8487fedB8A0C07 | 18 | OMG | OmiseGO
 0xe94327d07fc17907b4db788e5adf2ed424addff6 | 18 | REP | Augur
 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280 | 18 | PAY | TenX
