@@ -70,7 +70,7 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4 | 8 | ENG | Enigma
 0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C | 6 | TAAS | Taas
 0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b | 6 | TRST | Trustcoin
-0xf230b790e05390fc8295f4d3f60332c93bed42e2 | 6 | TRX | Tron
+~~0xf230b790e05390fc8295f4d3f60332c93bed42e2~~ | ~~6~~ | ~~TRX~~ | ~~Tron~~
 0x595832f8fc6bf59c85c527fec3740a1b7a361269 | 6 | POWR | PowerLedger
 0x27054b13b1B798B345b591a4d22e6562d47eA75a | 4 | AST | AirSwap
 0xf7b098298f7c69fc14610bf71d5e02c60792894c | 3 | GUP | Guppy
@@ -195,3 +195,15 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7 | 18 | JNT  | Jibrel Network Token
 0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C | 18 | NTK  | Netkoin
 0x461733c17b0755CA5649B6DB08B3E213FCf22546 | 18 | ATN  | ATN
+
+## Batch #7 (2018-0810)  
+| Token Contract | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- |
+0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC | 18 | MT  | MT Token
+0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D | 8  | HVN | Hive Project Token
+0x687BfC3E73f6af55F0CccA8450114D107E781a0e | 18 | QCH | QChi
+0x52DB8ebF894036ec997Da693C5fa237A4fb69d10 | 18 | CVH | Curriculum Vitae 
+0x17e16D30a05324B44CF78Df847137Fa1220448f8 | 8  | Cyber | CyberChain
+
+
+
