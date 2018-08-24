@@ -206,3 +206,10 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0x17e16D30a05324B44CF78Df847137Fa1220448f8 | 8  | Cyber | CyberChain
 0xdAC17F958D2ee523a2206206994597C13D831ec7 | 6  | USDT | Tether USD
 
+## Batch #8 (2018-0824)  
+| Token Contract | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- |
+0xA4d17AB1eE0efDD23edc2869E7BA96B89eEcf9AB | 18 | TRUE | TRUE Token
+0x263c618480dbe35c300d8d5ecda19bbb986acaed | 18 | MOT  | MOT
+0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E | 18 | TUSD | TrueUSD
+
