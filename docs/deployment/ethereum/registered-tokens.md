@@ -213,3 +213,15 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0x263c618480dbe35c300d8d5ecda19bbb986acaed | 18 | MOT  | MOT
 0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E | 18 | TUSD | TrueUSD
 
+## Batch #9 (2018-0831)  
+| Token Contract | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- |
+0x970E035E2a013cf4bECD67E300d65BC32A56D826 | 8  | BOE | Bodhi Ethereum
+0x5301Eae39a4cBa1CC2A74E861fDed062cA3E3420 | 18 | CEN | Centaure Token
+
+## Batch #10 (2018-0914)  
+| Token Contract | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- |
+0xD7732e3783b0047aa251928960063f863AD022D8 | 18 | BRM | BrahmaOS
+0x436F0F3a982074c4a05084485D421466a994FE53 | 18 | RTE | Rate3
+0x82125AFe01819Dff1535D0D6276d57045291B6c0 | 18 | MRL | Marcelo
