@@ -213,6 +213,5 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0x263c618480dbe35c300d8d5ecda19bbb986acaed | 18 | MOT  | MOT
 0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E | 18 | TUSD | TrueUSD
 0x6885fc6a8166d6b875cc9884ea9fcf76745f8b51 | 18 | MOTE | MonetChainToken
-0x011760f8f30676a30ac9d06db58f5be2f9a0ab0f | 18 | WD   | WdToken
 
 

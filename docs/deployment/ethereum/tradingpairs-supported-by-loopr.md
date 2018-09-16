@@ -83,7 +83,6 @@ Loopr and Circulr current displays and supports all trading pairs the official B
 - WIC-WETH
 - CYBER-WETH
 - MOTE-WETH
-- WD-WETH
 - TEN-LRC
 - DET-LRC
 - HT-LRC
