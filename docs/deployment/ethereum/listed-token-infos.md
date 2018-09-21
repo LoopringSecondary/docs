@@ -14,5 +14,5 @@
 0x6885Fc6a8166d6B875CC9884Ea9FCf76745F8B51 | 18 | MOTE | MonetChainToken | https://www.monetchain.io
 0x1F8517c10AFBa8dD20BB2A3673e57B6aa725F375 | 5  | NCU | NECUN | https://etherneum.org
 0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd | 2  | GUSD | Gemini dollar | https://gemini.com/dollar/
-0xE13Ef257cF4D5Df928ca11d230427C037666d466 | 6  | WIT  | WIT | http://witchain.org/
+
 
