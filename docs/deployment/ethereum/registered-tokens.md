@@ -225,3 +225,13 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0xD7732e3783b0047aa251928960063f863AD022D8 | 18 | BRM | BrahmaOS
 0x436F0F3a982074c4a05084485D421466a994FE53 | 18 | RTE | Rate3
 0x82125AFe01819Dff1535D0D6276d57045291B6c0 | 18 | MRL | Marcelo
+
+## Batch #11 (2018-0921)  
+| Token Contract Address | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- | 
+0x2a47f802064caf5a5e78ee193723dc2c7cfc06e9 | 18 | moolya | moolyacoin
+0x6885Fc6a8166d6B875CC9884Ea9FCf76745F8B51 | 18 | MOTE | MonetChainToken
+0x1F8517c10AFBa8dD20BB2A3673e57B6aa725F375 | 5  | NCU | NECUN
+0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd | 2  | GUSD | Gemini dollar
+0xE13Ef257cF4D5Df928ca11d230427C037666d466 | 6  | WIT  | WIT
+
