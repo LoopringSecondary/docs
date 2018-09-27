@@ -212,6 +212,9 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0xA4d17AB1eE0efDD23edc2869E7BA96B89eEcf9AB | 18 | TRUE | TRUE Token
 0x263c618480dbe35c300d8d5ecda19bbb986acaed | 18 | MOT  | MOT
 0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E | 18 | TUSD | TrueUSD
+0x6885fc6a8166d6b875cc9884ea9fcf76745f8b51 | 18 | MOTE | MonetChainToken
+0xa52c8371d379d7036a862673b08bd73faf4660fd | 18 | PMH  | Proyectos Modulares de Hormigon S.A.
+
 
 ## Batch #9 (2018-0831)  
 | Token Contract | Digits | Symbol | Name |
