@@ -237,4 +237,11 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0x1F8517c10AFBa8dD20BB2A3673e57B6aa725F375 | 5  | NCU | NECUN
 0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd | 2  | GUSD | Gemini dollar
 
+## Batch #12 (2018-0928)  
+| Token Contract Address | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- | 
+0xB72627650F1149Ea5e54834b2f468E5d430E67bf | 8  | BITS | Bitsoko Community | https://bitsoko.co.ke
+0xD9A1FE8b4d6De4F41c8A1b6AD3B6457916e546b4 | 18 | FOTC | Fortecoin | https://fortecoinbiz.com 
+0xE600daBd95d181FE5f6eEe1B079C2b64aa5fBCC7 | 18 | GPT  | Gridcube Platform Token | https://ito.gridcube.com
+
 
