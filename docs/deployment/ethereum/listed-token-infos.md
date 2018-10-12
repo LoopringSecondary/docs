@@ -23,3 +23,11 @@
 0xE600daBd95d181FE5f6eEe1B079C2b64aa5fBCC7 | 18 | GPT  | Gridcube Platform Token | https://ito.gridcube.com
 0xC438B4c0Dfbb1593be6DEE03Bbd1A84BB3aa6213 | 8 | EQC | Ethereum Qchain Token | https://qchain.co/
 
+## Batch #13 (2018-1012)  
+| Token Contract Address | Digits | Symbol | Name | Website |
+| ---- | ---- | ---- | ---- | ---- |
+0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7 | 0 | HAND | ShowHand | https://www.showhand.io
+0x48f775EFBE4F5EcE6e0DF2f7b5932dF56823B990 | 0 | R | R token | https://company.revain.org
+0x6CD2956a5a1Ab7e7983Fe68CB270Ae8C0aBe8C74 | 8 | RDEX | RingDEX Token | http://ringdex.io
+0x95C4be8534d69C248C0623c4C9a7A2a001c17337 | 18 | HDL | HODLER.TECH | https://hodler.tech/
+

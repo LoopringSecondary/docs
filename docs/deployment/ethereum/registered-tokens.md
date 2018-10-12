@@ -240,8 +240,20 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 ## Batch #12 (2018-0928)  
 | Token Contract Address | Digits | Symbol | Name |
 | ---- | ---- | ---- | ---- | 
-0xB72627650F1149Ea5e54834b2f468E5d430E67bf | 8  | BITS | Bitsoko Community | https://bitsoko.co.ke
-0xD9A1FE8b4d6De4F41c8A1b6AD3B6457916e546b4 | 18 | FOTC | Fortecoin | https://fortecoinbiz.com 
-0xE600daBd95d181FE5f6eEe1B079C2b64aa5fBCC7 | 18 | GPT  | Gridcube Platform Token | https://ito.gridcube.com
+0xB72627650F1149Ea5e54834b2f468E5d430E67bf | 8  | BITS | Bitsoko Community 
+0xD9A1FE8b4d6De4F41c8A1b6AD3B6457916e546b4 | 18 | FOTC | Fortecoin 
+0xE600daBd95d181FE5f6eEe1B079C2b64aa5fBCC7 | 18 | GPT  | Gridcube Platform Token 
+0xa52c8371d379d7036A862673B08Bd73fAF4660Fd | 0  | PMH  | Proyectos Modulares de Hormigon S.A.
+0x03260E1B0f53E1A1f93cF126a7cA42a1c71648D6 | 8  | RDEX | RingDEX Token
+
+## Batch #13 (2018-1012)  
+| Token Contract Address | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- | ---- |
+0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7 | 0 | HAND | ShowHand
+0x48f775EFBE4F5EcE6e0DF2f7b5932dF56823B990 | 0 | R | R token
+0x6CD2956a5a1Ab7e7983Fe68CB270Ae8C0aBe8C74 | 8 | RDEX | RingDEX Token
+0x95C4be8534d69C248C0623c4C9a7A2a001c17337 | 18 | HDL | HODLER.TECH
+
+
 
 
