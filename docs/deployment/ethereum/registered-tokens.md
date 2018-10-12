@@ -244,7 +244,7 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0xD9A1FE8b4d6De4F41c8A1b6AD3B6457916e546b4 | 18 | FOTC | Fortecoin 
 0xE600daBd95d181FE5f6eEe1B079C2b64aa5fBCC7 | 18 | GPT  | Gridcube Platform Token 
 0xa52c8371d379d7036A862673B08Bd73fAF4660Fd | 0  | PMH  | Proyectos Modulares de Hormigon S.A.
-0x03260E1B0f53E1A1f93cF126a7cA42a1c71648D6 | 8  | RDEX | RingDEX Token
+~~0x03260E1B0f53E1A1f93cF126a7cA42a1c71648D6~~ | ~~8~~  | ~~RDEX~~ | ~~RingDEX Token~~
 
 ## Batch #13 (2018-1012)  
 | Token Contract Address | Digits | Symbol | Name |
