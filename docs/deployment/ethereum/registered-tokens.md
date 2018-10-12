@@ -248,7 +248,7 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 
 ## Batch #13 (2018-1012)  
 | Token Contract Address | Digits | Symbol | Name |
-| ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7 | 0 | HAND | ShowHand
 0x48f775EFBE4F5EcE6e0DF2f7b5932dF56823B990 | 0 | R | R token
 0x6CD2956a5a1Ab7e7983Fe68CB270Ae8C0aBe8C74 | 8 | RDEX | RingDEX Token
