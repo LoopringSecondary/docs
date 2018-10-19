@@ -31,3 +31,8 @@
 0x6CD2956a5a1Ab7e7983Fe68CB270Ae8C0aBe8C74 | 8 | RDEX | RingDEX Token | http://ringdex.io
 0x95C4be8534d69C248C0623c4C9a7A2a001c17337 | 18 | HDL | HODLER.TECH | https://hodler.tech/
 
+## Batch #14 (2018-1019)  
+| Token Contract Address | Digits | Symbol | Name | Website |
+| ---- | ---- | ---- | ---- | ---- |
+0x840fe75abfadc0f2d54037829571b2782e919ce4 | 18 | WEB | Webcoin | https://webcoin.today
+0x78021ABD9b06f0456cB9DB95a846C302c34f8b8D | 18 | CDCC | CDCC | https://cdcctop.io/
