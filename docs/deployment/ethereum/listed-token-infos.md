@@ -36,3 +36,10 @@
 | ---- | ---- | ---- | ---- | ---- |
 0x840fe75abfadc0f2d54037829571b2782e919ce4 | 18 | WEB | Webcoin | https://webcoin.today
 0x78021ABD9b06f0456cB9DB95a846C302c34f8b8D | 18 | CDCC | CDCC | https://cdcctop.io/
+
+## Batch #15 (2018-1026)  
+| Token Contract Address | Digits | Symbol | Name | Website |
+| ---- | ---- | ---- | ---- | ---- |
+0x791425156956e39f2ab8ab06b79de189c18e95e5 | 18 | IBT | IcoBay | https://icobay.net
+0x7e8539D1E5cB91d63E46B8e188403b3f262a949B | 18 | SMDX | SOMIDAX | https://somidax.net
+
