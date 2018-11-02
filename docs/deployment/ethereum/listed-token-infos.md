@@ -43,3 +43,9 @@
 0x791425156956e39f2ab8ab06b79de189c18e95e5 | 18 | IBT | IcoBay | https://icobay.net
 0x7e8539D1E5cB91d63E46B8e188403b3f262a949B | 18 | SMDX | SOMIDAX | https://somidax.net
 
+## Batch #16 (2018-1102)  
+| Token Contract Address | Digits | Symbol | Name | Website |
+| ---- | ---- | ---- | ---- | ---- |
+0xFb5a551374B656C6e39787B1D3A03fEAb7f3a98E | 18 | TOS | ThingsOpreatingSystem | http://www.toschain.org
+0x2eb86e8fC520E0F6Bb5D9Af08F924fe70558Ab89 | 8 | LGR | Logarithm | https://getlogarithm.com/
+
