@@ -49,4 +49,5 @@
 0xFb5a551374B656C6e39787B1D3A03fEAb7f3a98E | 18 | TOS | ThingsOpreatingSystem | http://www.toschain.org
 0x2eb86e8fC520E0F6Bb5D9Af08F924fe70558Ab89 | 8 | LGR | Logarithm | https://getlogarithm.com/
 0x4c29be83d5dc0bb45faffa6af3f35a7b5862ff54 | 18 | HYKT | HayekExToken | https://www.hayekex.com/
+0x4b4fB2F2DC64a2cf2AFBc8119ca2Eabbd99a575b | 18 | QBT | QBT | https://qbao.fund/
 
