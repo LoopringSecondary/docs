@@ -274,3 +274,14 @@ Also note that Loopring hosted Loopr/Circulr DEX frontend only support a [subset
 0x4c29be83d5dc0bb45faffa6af3f35a7b5862ff54 | 18 | HYKT | HayekExToken
 0x4b4fB2F2DC64a2cf2AFBc8119ca2Eabbd99a575b | 18 | QBT | QBT 
 
+## Batch #17 (2019-01-15)  
+| Token Contract Address | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- |
+0x3e712A6A597dE4aA37ad0c752342fc8467B30581 | 4 | WEEX | WEEX
+0x613AaB720d3D8807284035F614f6F72a978450f8 | 18 | UDV | UDVilafranquense
+0xc6689EB9a6D724B8D7B1d923fFd65B7005dA1b62 | 18 | SEC | SEC
+
+## Batch #18 (2019-02-07)  
+| Token Contract Address | Digits | Symbol | Name |
+| ---- | ---- | ---- | ---- |
+0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599 | 8 | WBTC | Wrapped BTC
